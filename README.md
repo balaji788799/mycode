@@ -6,6 +6,7 @@ What is the purpose of putting up this repo?
 Wanting to learn how to version control project with git.
 
 TEST
+TEST1
 
 ## Getting Started
 
